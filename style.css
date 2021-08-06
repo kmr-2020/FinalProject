@@ -1,0 +1,182 @@
+nav {
+    height: 125px;
+    width: 100%;
+    background-image: url(img/gaelle-marcel-_LzCTGpJyGE-unsplash\ \(4.\)5.jpg);
+    background-image: center;
+}
+nav img {
+    width: 86%;
+    height: 125px;
+    object-fit: cover;
+}
+.logobox {
+    height: 118px;
+    width: 250px;
+    padding: 0px;
+    margin-left: 1px;
+    float: left;
+}
+nav li {
+    float: right;
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 90px;
+    
+}
+nav a {
+    color:  #faae7b ;
+    text-decoration-line: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+}
+
+section {
+    border: 1 px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #faae7b;
+    background-color: bisque;
+    margin: 10px;
+}
+section p {
+    font-family: 'Architects Daughter', cursive;
+    line-height: 200%
+}
+.colum1{
+    /* content: "";
+    display: table; */
+    clear:right;
+    margin-left: 6.5%;
+    /* margin-right: 6.5%; */
+}
+.colum2 {
+    /* content: "";
+    display: table; */
+    clear:right;
+    margin-left: 6.5%;
+    margin-bottom: 30px;
+    /* margin-right: 6.5%; */
+    height: 500px;
+}
+.line1 {
+    float: left;
+    width: 318px;
+    height: 475px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #faae7b;
+    margin-right: 15px;
+    margin-left: 5%;
+    margin-top: 30px;
+    background-color: white;
+
+}
+.line2 {
+    float: left;
+    height: 475px;
+    width: 318px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #faae7b;
+    margin-right: 15px;
+    margin-left: 5%;
+    margin-top: 30px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+#pix1 {
+    width: 300px;
+    border: 3px solid black;
+}
+#pix2 {
+    width: 300px;
+    border: 3px solid black;
+}
+#pix3 {
+    width: 300px;
+    border: 3px solid black;
+}
+#pix4 {
+    width: 300px;
+    border: 3px solid black;
+}
+#pix5 {
+    width: 300px;
+    border: 3px solid black;
+}
+#pix6 {
+    width: 300px;
+    border: 3px solid black;
+}
+p {
+    font-family: 'Architects Daughter', cursive;
+}
+footer{
+    height: 60px;
+    width: 100%;
+    background-image: url(img/gaelle-marcel-_LzCTGpJyGE-unsplash\ \(4.\)5.jpg);
+    background-image: center;
+    clear: both;
+    /* position: relative: */
+
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+footer li {
+    float: left;
+    list-style-type: none;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    
+}
+footer a {
+    color:  #faae7b ;
+    text-decoration-line: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+}
+.c2 i {
+    float: right;
+}
+.fa {
+    /* padding: 20px; */
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: white;
+    color: blue;
+}
+.fab {
+    font-size: 50px;
+    width: 50px ;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-pintrest-square {
+    background-color: none;
+    color: white;
+}
+body {
+    background: url(img/background1.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute ;
+
+}
