@@ -170,7 +170,66 @@ p {
     border-radius: 8px;
     padding: 0px;
     background-color:#faae7b;
+    /* margin-bottom: 15px; */
 
+}
+footer{
+    height: 60px;
+    width: 100%;
+    background-image: url(img/gaelle-marcel-_LzCTGpJyGE-unsplash\ \(4.\)5.jpg);
+    background-image: center;
+    clear: both;
+    /* position: relative: */
+
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+footer li {
+    float: left;
+    list-style-type: none;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    
+}
+footer a {
+    color:  #faae7b ;
+    text-decoration-line: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+}
+.c2 i {
+    float: right;
+}
+.fa {
+    /* padding: 20px; */
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: white;
+    color: blue;
+}
+.fab {
+    font-size: 50px;
+    width: 50px ;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-pintrest-square {
+    background-color: none;
+    color: white;
 }
 body {
     background: url(img/background1.jpg);

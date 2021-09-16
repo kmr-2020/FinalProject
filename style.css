@@ -24,6 +24,9 @@ nav li {
     margin-top: 90px;
     
 }
+li a:hover {
+    background-color: #00acca;
+}
 nav a {
     color:  #faae7b ;
     text-decoration-line: none;
@@ -47,14 +50,14 @@ section p {
 .colum1{
     /* content: "";
     display: table; */
-    clear:right;
+    clear:both;
     margin-left: 6.5%;
     /* margin-right: 6.5%; */
 }
 .colum2 {
     /* content: "";
     display: table; */
-    clear:right;
+    clear:both;
     margin-left: 6.5%;
     margin-bottom: 30px;
     /* margin-right: 6.5%; */

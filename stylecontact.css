@@ -54,7 +54,7 @@ h3 {
     /* background-color: coral; */
     margin: 0%;
     padding-top: 60px;
-    height: 750px;
+    height: 780px;
     background-image: url(img/gr-stocks-1ytUKz_Ms8U-unsplash.jpg);
     
 }
@@ -63,7 +63,7 @@ h3 {
     background-color: #00acca;
     margin-left: 20%;
     margin-left: 20%;
-    height: 600px;
+    height: 650px;
     padding: 15px;
     border-radius: 5px;
 }
@@ -113,7 +113,7 @@ h5 {
 .contact1 {
     background-image: url(img/mahbod-akhzami-6Crjd6r3ZyY-unsplash\ \(1\).jpg);
     background-position: center;
-    height: 23rem;
+    height: 25rem;
 }
 .container2 {
     border-top: 5px solid #faae7b;
@@ -127,6 +127,64 @@ h5 {
     margin-right:  0px;
     margin-left: 10px;
     padding: 0px;
+}
+footer{
+    height: 60px;
+    width: 100%;
+    background-image: url(img/gaelle-marcel-_LzCTGpJyGE-unsplash\ \(4.\)5.jpg);
+    background-image: center;
+    clear: both;
+    /* position: relative: */
+
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+footer li {
+    float: left;
+    list-style-type: none;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 5px;
+    
+}
+footer a {
+    color:  #faae7b ;
+    text-decoration-line: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+}
+.c2 i {
+    float: right;
+}
+.fa {
+    /* padding: 20px; */
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: white;
+    color: blue;
+}
+.fab {
+    font-size: 50px;
+    width: 50px ;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-pintrest-square {
+    background-color: none;
+    color: white;
 }
 body { 
     background-color: #db7c26;
